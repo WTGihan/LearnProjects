@@ -42,3 +42,5 @@
 > when refresh the file not display complted files
 
 > reference from DEV Ed
+
+> have to find how to get checked list from local storage
