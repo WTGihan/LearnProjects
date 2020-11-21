@@ -1,0 +1,14 @@
+2020.11.20 16:34:41 INFO  Started: Metals version 0.9.5 in workspace 'A:\JS\JS Projects\ToDolist' for client vscode.
+2020.11.20 16:34:45 INFO  time: initialize in 3.3s
+2020.11.20 16:34:47 WARN  Build server is not auto-connectable.
+2020.11.20 16:34:47 WARN  no build tool detected in workspace 'A:\JS\JS Projects\ToDolist'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.11.20 16:37:32 INFO  shutting down Metals
+2020.11.20 20:10:20 INFO  Started: Metals version 0.9.5 in workspace 'A:\JS\JS Projects\ToDolist' for client vscode.
+2020.11.20 20:10:22 INFO  time: initialize in 2.16s
+2020.11.20 20:10:26 WARN  Build server is not auto-connectable.
+2020.11.20 20:10:26 WARN  no build tool detected in workspace 'A:\JS\JS Projects\ToDolist'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.11.21 21:57:28 INFO  Started: Metals version 0.9.5 in workspace 'A:\JS\JS Projects\ToDolist' for client vscode.
+2020.11.21 21:57:30 INFO  time: initialize in 2.11s
+2020.11.21 21:57:38 WARN  Build server is not auto-connectable.
+2020.11.21 21:57:38 WARN  no build tool detected in workspace 'A:\JS\JS Projects\ToDolist'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.11.21 22:21:40 INFO  shutting down Metals
